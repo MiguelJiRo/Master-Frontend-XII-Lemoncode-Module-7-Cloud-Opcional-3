@@ -21,3 +21,13 @@
 </ol>
 
 Para el desarrollo de esta parte se ha partido del ejemplo de: https://github.com/Lemoncode/master-frontend-lemoncode/tree/master/07-cloud/99-bonus/01-vercel
+
+![config](./images/configvercel.png)
+
+<br>
+
+![congratulations](./images/congratulations.png)
+
+<br>
+
+![vercelweb](./images/vercelweb.png)
